@@ -6,7 +6,9 @@
 - 😄 Pronombres: Compendio de entidades colaborativas.
 - ⚡ Dato curioso: ¡La idea de CommunityForge está pensado para ser flexible y usable por cualquiera!, ¿No tienes experiencia?, no te preocupes, la base de los proyectos será en lenguaje natural, traducible y adaptable a cualquier persona y/o contexto.
 
-community-forge-ia-migo/community-forge-ia-migo es un repositorio ✨ special ✨ porque sus proyectos estarán pensado de manera sólida con la accesibilidad e inclusión siempre en mente. ¡Aprende a crear algoritmos traducibles en tu Idioma nativo y mucho más!
+community-forge-ia-migo/community-forge-ia-migo es un git ✨ especial ✨ porque sus proyectos estarán pensados de manera sólida con la accesibilidad e inclusión siempre en mente. ¡Aprende a crear algoritmos traducibles en tu Idioma nativo y mucho más!
+
+
 NOTA:
 Nos encantan las ideas disruptivas.
 Pensamos traer un cambio en el paradigma para poder crear algoritmos abstrayendonos de los lenguajes de programación pero asegurando que un futuro digno para todos donde se mantengan los conocimientos de nuestros predecesores.
